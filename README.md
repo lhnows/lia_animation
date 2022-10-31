@@ -15,6 +15,8 @@
 - [vox-vgg](https://drive.google.com/drive/folders/1N4QcnqUQwKUZivFV-YeBuPyH4pGJHooc);
 - [teg-vgg](https://drive.google.com/drive/folders/1N4QcnqUQwKUZivFV-YeBuPyH4pGJHooc);
 - [tichi-vgg](https://drive.google.com/drive/folders/1N4QcnqUQwKUZivFV-YeBuPyH4pGJHooc);
+- baiduyun链接：https://pan.baidu.com/s/1wZdZ8omEpbzW9022Is3UYA?pwd=kmqy 
+提取码：kmqy
 
 
 ## 快速开始
