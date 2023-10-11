@@ -48,7 +48,6 @@ python webapp.py
 
 ## 微信
 id:lhnows
-![lhnows.jpg](doc/20221031110959.jpg)
 
 Original README
 ------------------------------
